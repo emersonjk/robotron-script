@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc60fa62-2c7d-433c-a2a0-dc3ec90d1b3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/laragon/www/dmovel-site",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +51,8 @@
       <updated>1684015053141</updated>
       <workItem from="1684015055130" duration="1773000" />
       <workItem from="1684016871743" duration="4637000" />
-      <workItem from="1684021669777" duration="628000" />
+      <workItem from="1684021669777" duration="725000" />
+      <workItem from="1684334705935" duration="162000" />
     </task>
     <servers />
   </component>
